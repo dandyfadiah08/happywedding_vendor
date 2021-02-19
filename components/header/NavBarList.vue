@@ -35,6 +35,7 @@ export default {
 .nuxt-link-active::after {
   content: '';
   display: block;
+
   /* position: absolute; */
   margin: 0 auto;
   width: 60%;

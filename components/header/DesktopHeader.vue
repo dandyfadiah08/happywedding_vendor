@@ -26,7 +26,7 @@
           >
         </li>
         <li>
-          <nuxt-link class="py-3 hover:text-teal-500" to="/events"
+          <nuxt-link class="py-3 hover:text-teal-500" to="/blogs"
             >Blogs</nuxt-link
           >
         </li>

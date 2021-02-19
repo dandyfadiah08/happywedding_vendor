@@ -439,7 +439,7 @@
 export default {}
 </script>
 
-<style>
+<style scoped>
 .blue-img {
   background-image: url('../assets/blue-bg.png');
   background-repeat: no-repeat;
